@@ -1,9 +1,9 @@
 <?php
 //connect db
-$servername = "localhost";
-$username = "root";
-$password = "";
-$dbname = "Loc";
+$servername = "mysql";
+$username = "gps-tracker";
+$password = "TaVU7UBrLSmtz7Zm";
+$dbname = "gps-tracker";
 
 //submited by user
 $telno = $_POST["telno"];
